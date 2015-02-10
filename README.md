@@ -13,3 +13,8 @@ In this paper, we describe Credence, a decentralized ob- ject reputation and ran
 
 http://www.credentica.com/ISB0810SB.pdf
 another paper talking about blinded signatures and their use, locked with DRM to prevent copying the abstract here.
+
+https://gnunet.org/sites/default/files/ba_dold_voting_24aug2014.pdf
+Cryptographically Secure, Distributed Electronic Voting
+This thesis describes the design and implementation of an electronic voting system in GNUnet, a framework for secure and decentralized networking. We provide a short sur- vey of voting schemes and existing implementations.
+The voting scheme we implemented makes use of threshold cryptography, a technique which requires agreement among a large subset of the election officials to execute certain cryptographic operations. Since such protocols have applications outside of electronic vot- ing, we describe their design and implementation in GNUnet separately.
