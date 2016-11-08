@@ -18,3 +18,8 @@ https://gnunet.org/sites/default/files/ba_dold_voting_24aug2014.pdf
 Cryptographically Secure, Distributed Electronic Voting
 This thesis describes the design and implementation of an electronic voting system in GNUnet, a framework for secure and decentralized networking. We provide a short sur- vey of voting schemes and existing implementations.
 The voting scheme we implemented makes use of threshold cryptography, a technique which requires agreement among a large subset of the election officials to execute certain cryptographic operations. Since such protocols have applications outside of electronic vot- ing, we describe their design and implementation in GNUnet separately.
+
+https://docs.pol.is/welcome/Overview.html
+Polis overcomes these challenges and produces meaning from open ended responses. Participants can write what they think, but they can also agree and disagree with what others are saying one comment at a time. This process happens in real-time. As soon as someone writes, others can vote.
+Polis runs statistical analysis on these voting patterns, also in real-time. It produces opinion groups and surfaces the comments that brought each group together. It also surfaces comments that found broad consensus among participants.
+Polis scales to any number of participants, even millions. It accomplishes this by combining crowd behavior and machine learning. Humans can do what they are good at - reading text and forming snap judgments, as well as comparing statements. Computers can do what they are good at - finding patterns in large data sets.
