@@ -23,3 +23,26 @@ https://docs.pol.is/welcome/Overview.html
 Polis overcomes these challenges and produces meaning from open ended responses. Participants can write what they think, but they can also agree and disagree with what others are saying one comment at a time. This process happens in real-time. As soon as someone writes, others can vote.
 Polis runs statistical analysis on these voting patterns, also in real-time. It produces opinion groups and surfaces the comments that brought each group together. It also surfaces comments that found broad consensus among participants.
 Polis scales to any number of participants, even millions. It accomplishes this by combining crowd behavior and machine learning. Humans can do what they are good at - reading text and forming snap judgments, as well as comparing statements. Computers can do what they are good at - finding patterns in large data sets.
+
+https://www.countable.us/
+Why does it have to be so hard to understand what our lawmakers are up to?
+With Countable, it doesn’t.
+Countable makes it quick and easy to understand the laws Congress is considering. We also streamline the process of contacting your lawmaker, so you can tell them how you want them to vote on bills under consideration.
+You can use Countable to:
+Read clear and succinct summaries of upcoming and active legislation.
+Directly tell your lawmakers how to vote on those bills by clicking “Yea” or “Nay”.
+Follow up on how your elected officials voted on bills, so you can hold them accountable in the next election cycle.
+Countable is available for free online, on iOS, and Android devices.
+
+http://democracyos.org/
+Propose
+Create your DemocracyOS in a click. Build proposals and be the change you want to see.
+Debate
+Debate in a platform that rewards the best arguments and filters that noise that usually ends up calling the trolls.
+Vote
+With a clear deadline, get everyone on board to reach a voted decision and avoid endless debates.
+
+https://brigade.com/
+Remind your politicians they work for you
+Your vote gives you power. Brigade helps you use that power to make the change you want to see.
+Get Started Now Continue with Facebook or Sign up with email
