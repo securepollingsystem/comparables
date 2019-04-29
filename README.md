@@ -46,3 +46,8 @@ https://brigade.com/
 Remind your politicians they work for you
 Your vote gives you power. Brigade helps you use that power to make the change you want to see.
 Get Started Now Continue with Facebook or Sign up with email
+
+https://unherd.com/2018/09/save-democracy-must-disrupt/
+http://g0v.asia
+"a group was formed, including Audrey, with a call to “fork the government”. It was a call for reform in the language of software developers: for government to take a different path, forking off from the current one. They called themselves Gov Zero – or just G0v – and with increasing volume and urgency demanded open politics as well as open source. The values of the Open Source Movement were morphing in to demands for mainstream political reform."
+"...if we were talking about Twitter or Facebook, we’d see echo chambers, spats, competing online petitions and massively contradictory information flowing to politicians. But pol.is produced something more useful than just feedback: “we found that it became a consensus-generating mechanism”, said Colin. People were asked to continue to draft statements, but the ones that were given visibility were those that garnered support from both sides."
